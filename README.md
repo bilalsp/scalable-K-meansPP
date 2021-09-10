@@ -3,10 +3,10 @@
 
 # Scalable K-means++
 <!-- Add buttons here -->
-![GitHub last commit](https://img.shields.io/github/last-commit/bilalsp/yelp_etl)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/bilalsp/yelp_etl)
-![GitHub issues](https://img.shields.io/github/issues-raw/bilalsp/yelp_etl)
-![GitHub stars](https://img.shields.io/github/stars/bilalsp/yelp_etl)
+![GitHub last commit](https://img.shields.io/github/last-commit/bilalsp/scalable-K-meansPP)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/bilalsp/scalable-K-meansPP)
+![GitHub issues](https://img.shields.io/github/issues-raw/bilalsp/scalable-K-meansPP)
+![GitHub stars](https://img.shields.io/github/stars/bilalsp/scalable-K-meansPP)
 
 <!-- Describe your project in brief -->
 In this project, we implement  `Scalable Kmeans++` using PySpark framework 
